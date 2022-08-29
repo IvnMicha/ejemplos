@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-size: 14px;
+    font-family: "Speedee",arial,helvetica,sans-serif;
+}
+.cajabody{
+    border: 2px red solid;
+    text-align: center;
+    margin-top: 30px;
+}
+.caja{
+    border: 2px orange solid;
+    padding: 5px;
+    margin: 5px;
+}
+.cajon{
+    border: 2px yellow solid;
+    padding: 0px;
+}
+.imagen{
+    width: 100%;
+}
